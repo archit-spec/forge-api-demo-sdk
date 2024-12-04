@@ -32,6 +32,10 @@ Here's how to run the command and see its help output:
 ```bash
 > poetry run python src/forge-api-demo/cli.py -h
 ```
+OR Use app.py as an Example
+```
+python src/app.py
+```
 
 Which shows:
 ```
